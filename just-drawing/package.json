@@ -12,6 +12,6 @@
     "dev": "open http://localhost:4444/challenge.html && node fuse.js"
   },
   "dependencies": {
-    "easy-draw": "^0.5.0"
+    "easy-draw": "^0.6.0"
   }
 }

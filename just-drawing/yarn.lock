@@ -243,9 +243,9 @@ destroy@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
 
-easy-draw@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/easy-draw/-/easy-draw-0.5.0.tgz#815115f470fbd5e67268587ba23066dbb77005fd"
+easy-draw@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/easy-draw/-/easy-draw-0.6.0.tgz#365fc3f63f0d1b4d9f45257b11bb482abc515935"
   dependencies:
     easy-vector2d "^0.3.1"
 
